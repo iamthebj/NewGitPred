@@ -1,1 +1,1 @@
-# NewGitPred
+# GitPred
